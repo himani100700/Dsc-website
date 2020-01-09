@@ -176,8 +176,6 @@ h4 {
   vertical-align: top;
 }
 
-/* Footer left */
-
 .footer-distributed .footer-left{
   width: 30%;
 }
@@ -188,8 +186,6 @@ h4 {
   margin: 0;
 }
 
-/* The company logo */
-
 .footer-distributed .footer-left img{
   width: 30%;
 }
@@ -198,7 +194,6 @@ h4 {
   color:  #e0ac1c;
 }
 
-/* Footer links */
 
 .footer-distributed .footer-links{
   color:  #ffffff;
@@ -219,7 +214,6 @@ h4 {
   margin: 0;
 }
 
-/* Footer Center */
 
 .footer-distributed .footer-center{
   width: 35%;
@@ -264,8 +258,6 @@ h4 {
 }
 
 
-/* Footer Right */
-
 .footer-distributed .footer-right{
   width: 30%;
 }
@@ -307,8 +299,6 @@ h4 {
   margin-bottom: 5px;
 }
 
-/* Here is the code for Responsive Footer */
-/* You can remove below code if you don't want Footer to be responsive */
 
 
 @media (max-width: 880px) {
